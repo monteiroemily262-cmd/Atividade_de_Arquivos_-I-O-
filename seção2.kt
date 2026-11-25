@@ -1,4 +1,4 @@
-import java.io.File
+import java.io.File // Importa a classe File para representar caminhos e manipular arquivos no disco
 
 fun main() {
     // Aponta para um arquivo na raiz do projeto
